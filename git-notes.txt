@@ -1,0 +1,4 @@
+-a----         11/2/2026   7:54 PM             67 omlette.txt
+-a----         11/2/2026   7:54 PM            110 omlettesteps.txt
+-a----         11/2/2026   7:44 PM             50 README.md                                                          
+все что видел 
